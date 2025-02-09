@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FacebookAPI</string>
+    <string name="facebook_app_id">602324992727374</string>
+    <string name="facebook_client_token">f0f9f8473adda5ad45d71e718279d92a</string>
+</resources>
